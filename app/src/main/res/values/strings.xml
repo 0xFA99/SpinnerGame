@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpinningGame</string>
+    <string name="spinning_game">SPINNING GAME</string>
+    <string name="bagian_spinner_yang_berputar">Bagian Spinner yang berputar</string>
+    <string name="tombol_untuk_memutar_spinner">tombol untuk memutar spinner</string>
+    <string name="border_spinner_diam">border spinner diam</string>
+    <string name="points">0</string>
+    <string name="pointTitle">POINT</string>
+    <string name="each_spin_uses_40_points">Each Spin Uses 40 Points</string>
+</resources>
